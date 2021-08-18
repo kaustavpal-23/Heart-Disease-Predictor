@@ -1,0 +1,54 @@
+age
+age in years
+
+sex
+(1 = male; 0 = female)
+
+cp
+chest pain type
+
+trestbps
+resting blood pressure (in mm Hg on admission to the hospital)
+
+chol
+serum cholestoral in mg/dl
+
+fbs
+(fasting blood sugar &gt; 120 mg/dl) (1 = true; 0 = false)
+
+restecg
+resting electrocardiographic results
+
+thalach
+maximum heart rate achieved
+
+exang
+exercise induced angina (1 = yes; 0 = no)
+
+oldpeak
+ST depression induced by exercise relative to rest
+
+slope
+the slope of the peak exercise ST segment
+
+ca
+number of major vessels (0-3) colored by flourosopy
+
+thal
+3 = normal; 6 = fixed defect; 7 = reversable defect
+
+target
+1 or 0
+
+Lab
+Label	Count
+29.00 - 33.80	1
+33.80 - 38.60	11
+38.60 - 43.40	33
+43.40 - 48.20	38
+48.20 - 53.00	37
+53.00 - 57.80	60
+57.80 - 62.60	63
+62.60 - 67.40	43
+67.40 - 72.20	14
+72.20 - 77.00	3
