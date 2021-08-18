@@ -5,7 +5,7 @@ Tool used: **R**
 
 Model used: **Random Forest**
 
-pdf was made using R Markdown and LaTeX
+pdf was made using *R Markdown* and *LaTeX*
 
 Data was found from kaggle.
 
